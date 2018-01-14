@@ -1,4 +1,6 @@
-# Preface
+---
+title: Preface
+---
 
 Some programming languages excel at turning coders into clockwork
 oranges. By enforcing rigid rules

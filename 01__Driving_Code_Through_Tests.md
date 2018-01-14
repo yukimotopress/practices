@@ -1,4 +1,6 @@
-# Driving Code Through Tests
+---
+title: Driving Code Through Tests
+---
 
 
 If you’ve done some Ruby—even a little bit—you have probably heard of

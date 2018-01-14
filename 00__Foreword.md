@@ -1,4 +1,6 @@
-# Foreword
+---
+title: Foreword
+---
 
 In 1993, when Ruby was born, Ruby had nothing. No user base except for
 me and a few close friends. No tradition. No idioms except for a few
