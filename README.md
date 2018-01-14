@@ -4,19 +4,17 @@ See the live version @ [`yukimotopress.github.io/practices`](http://yukimotopres
 
 ---
 
+
 # Ruby Best Practices (Manuscripts Book Edition)
 
-by Gregory Brown
+by [Gregory Brown](https://github.com/practicingruby)
 
-Gregory Brown is a New Haven,
-Connecticut-based Rubyist who spends most of his time on free software
-projects in Ruby. His main projects are Prawn and Ruport. He also is in
-possession of a small bamboo plant that seems to be invincible, and he
-is quite proud of this accomplishment.
+
+This is the original source reformatted in a single-page book edition (using the [Manuscripts format](http://manuscripts.github.io)).
 
 
 - [Forword](00__Forword.md) by Yukihiro "Matz" Matsumoto
-- [Preface](01__Preface.md)
+- [Preface](00__Preface.md)
 - [1. Driving Code Through Tests](01__Driving_Code_Through_Tests.md)
 
 

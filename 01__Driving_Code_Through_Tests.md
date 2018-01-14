@@ -82,6 +82,7 @@ writing tests, we’ll examine what it means for code to be easily testable,
 by looking at some real examples.
 
 
+
 ## Designing for Testability
 
 Describing testing with the phrase “Red, Green, Refactor” makes it
@@ -175,7 +176,7 @@ necessary.
 
 
 
-## Sidebar - A Test::Unit Trick to Know About
+### Sidebar - A Test::Unit Trick to Know About
 
 Usually, test cases written with `minitest/unit` or `test/unit`
 look like this:
