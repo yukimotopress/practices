@@ -2,7 +2,7 @@
 #  Table of Contents
 
 - title:  Foreword (by Yukihiro "Matz" Matsumoto)
-  path:   00__Forword.md
+  path:   00__Foreword.md
 - title:  Preface
   path:   00__Preface.md
 - title:  1. Driving Code Through Tests

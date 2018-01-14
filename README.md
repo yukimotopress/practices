@@ -13,7 +13,7 @@ by [Gregory Brown](https://github.com/practicingruby)
 This is the original source reformatted in a single-page book edition (using the [Manuscripts format](http://manuscripts.github.io)).
 
 
-- [Forword](00__Forword.md) by Yukihiro "Matz" Matsumoto
+- [Forword](00__Foreword.md) by Yukihiro "Matz" Matsumoto
 - [Preface](00__Preface.md)
 - [1. Driving Code Through Tests](01__Driving_Code_Through_Tests.md)
 
